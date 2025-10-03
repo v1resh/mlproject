@@ -1,2 +1,2 @@
 # mlproject
-college project work
+aiml maths college project work 
